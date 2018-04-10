@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Window-shopper/Controller/MainVC.swift"
+            timestampString = "545060499.014447"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "MainVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Window_shopper.MainVC.wageTxt.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;Window_shopper.CurrencyTextField&gt;"
+                  moduleName = "Window-shopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmou6/Local/xCode/Window-shopper/Window-shopper/Controller/MainVC.swift"
+                  timestampString = "545055730.907797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Window_shopper.MainVC.wageTxt.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;Window_shopper.CurrencyTextField&gt;"
+                  moduleName = "Window-shopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmou6/Local/xCode/Window-shopper/Window-shopper/Controller/MainVC.swift"
+                  timestampString = "545055730.910428"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Window_shopper.MainVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Window_shopper.MainVC"
+                  moduleName = "Window-shopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmou6/Local/xCode/Window-shopper/Window-shopper/Controller/MainVC.swift"
+                  timestampString = "545055730.913511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Window_shopper.MainVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Window_shopper.MainVC&gt;"
+                  moduleName = "Window-shopper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahmou6/Local/xCode/Window-shopper/Window-shopper/Controller/MainVC.swift"
+                  timestampString = "545055730.917013"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
